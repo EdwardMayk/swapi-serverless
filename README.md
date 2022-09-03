@@ -17,3 +17,8 @@ sls dynamodb install
 ```sh
 sls dynamodb executeAll
 ```
+### Despliegue
+
+```sh
+sls deploy
+```
